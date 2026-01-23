@@ -9,7 +9,7 @@ pip install git+https://github.com/hennadii-phys/GeneralizedTDGL_Oh.git
 Editable installation:
 
 git clone https://github.com/hennadii-phys/GeneralizedTDGL_Oh.git
-cd lg-tdgl
+cd GeneralizedTDGL_Oh
 pip install -e ".[dev,docs]"
 
 # Acknowledgments
