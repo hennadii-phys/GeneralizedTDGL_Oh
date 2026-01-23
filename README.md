@@ -16,4 +16,3 @@ pip install -e ".[dev,docs]"
 
 # Acknowledgments
 This work was supported by US DOE Office of Science award No.DE-SC-0025580.
-(Install pyTDGL)
