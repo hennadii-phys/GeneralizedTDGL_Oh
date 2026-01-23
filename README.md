@@ -11,3 +11,7 @@ Editable installation:
 git clone https://github.com/hennadii-phys/GeneralizedTDGL_Oh.git
 cd lg-tdgl
 pip install -e ".[dev,docs]"
+
+# Acknowledgments
+This work was supported by US DOE Office of Science award No.DE-SC-0025580.
+(Install pyTDGL)
