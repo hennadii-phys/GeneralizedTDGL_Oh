@@ -3,7 +3,7 @@ This repository contains a Python code for numerical simulations of the inductio
 
 --References:
 
-1. Induction of p-wave and d-wave order parameters in s-wave superconductors with light pulses. _To appear on arXiv soon._
+1. H. Yerzhakov and A. V. Balataksy. Induction of p-wave and d-wave order parameters in s-wave superconductors with light pulses. _To appear on arXiv soon._
 
 # Install via pip
 From this GitHub repository:
