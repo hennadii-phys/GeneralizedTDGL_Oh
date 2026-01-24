@@ -10,7 +10,9 @@ It also contains movies with the dynamics of order parameters for cases of linea
 # Install via pip
 From this GitHub repository:
 
+```bash
 pip install git+https://github.com/hennadii-phys/GeneralizedTDGL_Oh.git
+```
 
 Editable installation:
 
