@@ -5,7 +5,7 @@ It also contains movies showing the dynamics of order parameters for the cases o
 
 --References:
 
-1. H. Yerzhakov and A. V. Balataksy. Induction of p-wave and d-wave order parameters in s-wave superconductors with light pulses. _To appear on arXiv soon._
+1. H. Yerzhakov and A. Balatsky, “Inducing p-wave and d-wave orders in s-wave centrosymmetric superconductors with light pulses”, arXiv:2602.09391 (2026).
 
 ## Repository structure
 
